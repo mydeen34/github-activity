@@ -48,4 +48,4 @@ node github-activity.js this-user-does-not-exist-928374
 ```
 
 ## Project URL
-https://github.com/mydeen34/github-activity
+https://roadmap.sh/projects/github-user-activity
